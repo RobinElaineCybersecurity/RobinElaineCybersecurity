@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Slack and or linkedin.
 - 😄 Pronouns: ...She / Her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...Aspiring Cyber Security Professional | Google Cyber Security Certificate Candidate | Skilled in Network Security, Threat Detection, and Incident Response"
 
 <!---
 RobinElaineCybersecurity/RobinElaineCybersecurity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
